@@ -1,0 +1,24 @@
+.light-color
+{
+	color: #f5d5e0;
+}
+
+.align-img 
+{
+    text-align: center;
+}
+
+.align-img img
+{
+	width: 100%;
+}
+
+.size-panel 
+{
+	height:350px;
+	overflow-y: scroll;
+}
+
+img {
+	padding: 10px;
+}
